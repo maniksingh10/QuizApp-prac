@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="question">22sp</dimen>
+    <dimen name="answers">15sp</dimen>
+    <dimen name="top">15dp</dimen>
+    <dimen name="bottom">2dp</dimen>
+    <dimen name="left">7dp</dimen>
+    <dimen name="ansleft">10dp</dimen>
+</resources>
